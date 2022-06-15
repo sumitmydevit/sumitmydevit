@@ -1,4 +1,4 @@
-- Generating business through online freelancing portal likes Elance, Guru, Odesk, Peopleperhour etc.
+- Generating business through online freelancing portal likes Upwork, Guru, Freelancer, Peopleperhour etc.
 - Good aesthetics in SOW (user stories) designing.
 - Estimate the project price based on the requirement gathered.
 - Analyze client requirements and provide appropriate solutions.
